@@ -12,3 +12,5 @@
 # print(my_screen.canvheight)
 # my_screen.exitonclick()
 
+import prettytable
+
